@@ -1,0 +1,888 @@
+[
+  {
+    "name": "AirCel",
+    "country": "India",
+    "gateway_text": "@aircel.co.in"
+  },
+  {
+    "name": "Airtel",
+    "country": "India",
+    "gateway_text": "@airtelap.com"
+  },
+  {
+    "name": "Airtel",
+    "country": "India",
+    "gateway_text": "@airtelkk.com"
+  },
+  {
+    "name": "AirFire Mobile",
+    "country": "USA",
+    "gateway_text": "@sms.airfiremobile.com"
+  },
+  {
+    "name": "Aio Wireless",
+    "country": "USA",
+    "gateway_text": "@mms.aiowireless.net"
+  },
+  {
+    "name": "Alaska Communications",
+    "country": "USA",
+    "gateway_text": "@msg.acsalaska.com"
+  },
+  {
+    "name": "Aliant Canada",
+    "country": "Canada",
+    "gateway_text": "@sms.wirefree.informe.ca"
+  },
+  {
+    "name": "Alltel (Allied Wireless)",
+    "country": "USA",
+    "gateway_text": "@mms.alltelwireless.com"
+  },
+  {
+    "name": "Verizon Wireless",
+    "country": "USA",
+    "gateway_text": "@vzwpix.com"
+  },
+  {
+    "name": "Ameritech",
+    "country": "USA",
+    "gateway_text": "@paging.acswireless.com"
+  },
+  {
+    "name": "Andhra Pradesh AirTel",
+    "country": "India",
+    "gateway_text": "@airtelap.com"
+  },
+  {
+    "name": "Andhra Pradesh Idea",
+    "country": "India",
+    "gateway_text": "@ideacellular.net"
+  },
+  {
+    "name": "Assurance Wireless",
+    "country": "USA",
+    "gateway_text": "@vmobl.com"
+  },
+  {
+    "name": "AT&T Mobility",
+    "country": "USA",
+    "gateway_text": "@mms.att.net"
+  },
+  {
+    "name": "AT&T Enterprise Paging",
+    "country": "USA",
+    "gateway_text": "@page.att.net"
+  },
+  {
+    "name": "Beeline",
+    "country": "Russia",
+    "gateway_text": "@sms.beemail.ru"
+  },
+  {
+    "name": "Bell Mobility",
+    "country": "Canada",
+    "gateway_text": "@txt.bell.ca"
+  },
+  {
+    "name": "BellSouth",
+    "country": "USA",
+    "gateway_text": "@bellsouth.cl"
+  },
+  {
+    "name": "Bluegrass Cellular",
+    "country": "USA",
+    "gateway_text": "@mms.myblueworks.com"
+  },
+  {
+    "name": "Bluesky Communications",
+    "country": "USA Samoa",
+    "gateway_text": "@psms.bluesky.as"
+  },
+  {
+    "name": "Boost mobile",
+    "country": "USA",
+    "gateway_text": "@myboostmobile.com"
+  },
+  {
+    "name": "Bouygues Telecom",
+    "country": "France",
+    "gateway_text": "@mms.bouyguestelecom.fr"
+  },
+  {
+    "name": "Box Internet Services",
+    "country": "Switzerland",
+    "gateway_text": "@mms.boxis.net"
+  },
+  {
+    "name": "SFR",
+    "country": "France",
+    "gateway_text": "@sfr.fr"
+  },
+  {
+    "name": "CellCom",
+    "country": "USA",
+    "gateway_text": "@cellcom.quiktxt.com"
+  },
+  {
+    "name": "Cellular South",
+    "country": "USA",
+    "gateway_text": "@csouth1.com"
+  },
+  {
+    "name": "Centennial Wireless",
+    "country": "USA",
+    "gateway_text": "@cwemail.com"
+  },
+  {
+    "name": "Chariton Valley Wireless",
+    "country": "USA",
+    "gateway_text": "@sms.cvalley.net"
+  },
+  {
+    "name": "Chat Mobility",
+    "country": "USA",
+    "gateway_text": "@mail.msgsender.com"
+  },
+  {
+    "name": "Chennai Skycell / Airtel",
+    "country": "India",
+    "gateway_text": "@airtelchennai.com"
+  },
+  {
+    "name": "Chennai RPG Cellular",
+    "country": "India",
+    "gateway_text": "@rpgmail.net"
+  },
+  {
+    "name": "China Mobile",
+    "country": "China",
+    "gateway_text": "@139.com"
+  },
+  {
+    "name": "Cincinnati Bell",
+    "country": "USA",
+    "gateway_text": "@mms.gocbw.com"
+  },
+  {
+    "name": "Claro",
+    "country": "Brazil",
+    "gateway_text": "@clarotorpedo.com.br"
+  },
+  {
+    "name": "Claro",
+    "country": "Nicaragua",
+    "gateway_text": "@ideasclaro-ca.com"
+  },
+  {
+    "name": "Claro",
+    "country": "Puerto Rico",
+    "gateway_text": "@vtexto.com"
+  },
+  {
+    "name": "Cleartalk",
+    "country": "USA",
+    "gateway_text": "@sms.cleartalk.us"
+  },
+  {
+    "name": "Claro",
+    "country": "Colombia",
+    "gateway_text": "@iclaro.com.co"
+  },
+  {
+    "name": "Cricket",
+    "country": "USA",
+    "gateway_text": "@mms.mycricket.com"
+  },
+  {
+    "name": "C Spire Wireless",
+    "country": "USA",
+    "gateway_text": "@cspire1.com"
+  },
+  {
+    "name": "Accessyou",
+    "country": "Hong Kong",
+    "gateway_text": "@messaging.accessyou.com"
+  },
+  {
+    "name": "CSL",
+    "country": "Hong Kong",
+    "gateway_text": "@mgw.mmsc1.hkcsl.com"
+  },
+  {
+    "name": "CTI Móvil (Now Claro)",
+    "country": "Argentina",
+    "gateway_text": "@sms.ctimovil.com.ar"
+  },
+  {
+    "name": "Delhi Airtel",
+    "country": "India",
+    "gateway_text": "@airtelmail.com"
+  },
+  {
+    "name": "Digicel",
+    "country": "Dominica",
+    "gateway_text": "@digitextdm.com"
+  },
+  {
+    "name": "DTC",
+    "country": "USA",
+    "gateway_text": "@sms.advantagecell.net"
+  },
+  {
+    "name": "E-Plus",
+    "country": "Germany",
+    "gateway_text": "@smsmail.eplus.de"
+  },
+  {
+    "name": "Edge Wireless",
+    "country": "USA",
+    "gateway_text": "@sms.edgewireless.com"
+  },
+  {
+    "name": "Element Mobile",
+    "country": "USA",
+    "gateway_text": "@SMS.elementmobile.net"
+  },
+  {
+    "name": "Emtel",
+    "country": "Mauritius",
+    "gateway_text": "@emtelworld.net"
+  },
+  {
+    "name": "Esendex",
+    "country": "International",
+    "gateway_text": "@echoemail.net"
+  },
+  {
+    "name": "Esendex",
+    "country": "Spain",
+    "gateway_text": "@esendex.net"
+  },
+  {
+    "name": "Fido",
+    "country": "Canada",
+    "gateway_text": "@sms.fido.ca"
+  },
+  {
+    "name": "Firmensms",
+    "country": "Austria",
+    "gateway_text": "@subdomain.firmensms.at"
+  },
+  {
+    "name": "Freebie SMS",
+    "country": "Europe",
+    "gateway_text": "@smssturen.com"
+  },
+  {
+    "name": "General Communications Inc.",
+    "country": "USA",
+    "gateway_text": "@mobile.gci.net"
+  },
+  {
+    "name": "Globalstar",
+    "country": "International",
+    "gateway_text": "@msg.globalstarusa.com"
+  },
+  {
+    "name": "Globul",
+    "country": "Bulgaria",
+    "gateway_text": "@sms.globul.bg"
+  },
+  {
+    "name": "Goa Airtel",
+    "country": "India",
+    "gateway_text": "@airtelmail.com"
+  },
+  {
+    "name": "Goa Idea Cellular",
+    "country": "India",
+    "gateway_text": "@ideacellular.net"
+  },
+  {
+    "name": "Golden State Cellular",
+    "country": "USA",
+    "gateway_text": "@gscsms.com"
+  },
+  {
+    "name": "Greatcall",
+    "country": "USA",
+    "gateway_text": "@vtxt.com"
+  },
+  {
+    "name": "Gujarat Idea Cellular",
+    "country": "India",
+    "gateway_text": "@ideacellular.net"
+  },
+  {
+    "name": "Gujarat Airtel",
+    "country": "India",
+    "gateway_text": "@airtelmail.com"
+  },
+  {
+    "name": "Gujarat Celforce / Fascel",
+    "country": "India",
+    "gateway_text": "@celforce.com"
+  },
+  {
+    "name": "Guyana T&T",
+    "country": "Guyana",
+    "gateway_text": "@sms.cellinkgy.com"
+  },
+  {
+    "name": "Haryana Airtel",
+    "country": "India",
+    "gateway_text": "@airtelmail.com"
+  },
+  {
+    "name": "Haryana Escotel",
+    "country": "India",
+    "gateway_text": "@escotelmobile.com"
+  },
+  {
+    "name": "Hawaiian Telcom",
+    "country": "Hawaii USA",
+    "gateway_text": "@hawaii.sprintpcs.com"
+  },
+  {
+    "name": "HSL Mobile",
+    "country": "UK",
+    "gateway_text": "@sms.haysystems.com"
+  },
+  {
+    "name": "Helio",
+    "country": "South Korea",
+    "gateway_text": "@myhelio.com"
+  },
+  {
+    "name": "Himachai Pradesh Airtel",
+    "country": "India",
+    "gateway_text": "@airtelmail.com"
+  },
+  {
+    "name": "ICE",
+    "country": "Costa Rica",
+    "gateway_text": "@sms.ice.cr"
+  },
+  {
+    "name": "I-wireless(T-Mobile)",
+    "country": "USA",
+    "gateway_text": ".iws@iwspcs.net"
+  },
+  {
+    "name": "I-wireless(Sprint PCS)",
+    "country": "USA",
+    "gateway_text": "@iwirelesshometext.com"
+  },
+  {
+    "name": "Kajeet",
+    "country": "USA",
+    "gateway_text": "@mobile.kajeet.net"
+  },
+  {
+    "name": "Karnataka Airtel",
+    "country": "India",
+    "gateway_text": "@airtelkk.com"
+  },
+  {
+    "name": "Kerala Airtel",
+    "country": "India",
+    "gateway_text": "@airtelkerala.com"
+  },
+  {
+    "name": "Kerala Escotel",
+    "country": "India",
+    "gateway_text": "@escotelmobile.com"
+  },
+  {
+    "name": "Kolkata Airtel",
+    "country": "India",
+    "gateway_text": "@airtelkol.com"
+  },
+  {
+    "name": "Koodo Mobile",
+    "country": "Canada",
+    "gateway_text": "@msg.telus.com"
+  },
+  {
+    "name": "LongLines",
+    "country": "USA",
+    "gateway_text": "@text.longlines.com"
+  },
+  {
+    "name": "Lynx Mobility",
+    "country": "Canada",
+    "gateway_text": "@sms.lynxmobility.com"
+  },
+  {
+    "name": "M1",
+    "country": "Singapore",
+    "gateway_text": "@m1.com.sg"
+  },
+  {
+    "name": "Madhya Pradesh Airtel",
+    "country": "India",
+    "gateway_text": "@airtelmail.com"
+  },
+  {
+    "name": "Maharashtra Airtel",
+    "country": "India",
+    "gateway_text": "@airtelmail.com"
+  },
+  {
+    "name": "Maharashtra Idea",
+    "country": "India",
+    "gateway_text": "@ideacellular.net"
+  },
+  {
+    "name": "Más Móvil",
+    "country": "Panama",
+    "gateway_text": "@cwmovil.com"
+  },
+  {
+    "name": "Mediaburst",
+    "country": "UK",
+    "gateway_text": "@sms.mediaburst.co.uk"
+  },
+  {
+    "name": "MetroPCS",
+    "country": "USA",
+    "gateway_text": "@mymetropcs.com"
+  },
+  {
+    "name": "Mobiltel",
+    "country": "Bulgaria",
+    "gateway_text": "@sms.mtel.net"
+  },
+  {
+    "name": "Mobitel",
+    "country": "Sri Lanka",
+    "gateway_text": "@sms.mobitel.lk"
+  },
+  {
+    "name": "Movistar",
+    "country": "Argentina",
+    "gateway_text": "@sms.movistar.net.ar"
+  },
+  {
+    "name": "Movistar",
+    "country": "Colombia",
+    "gateway_text": "@movistar.com.co"
+  },
+  {
+    "name": "Movistar",
+    "country": "Spain",
+    "gateway_text": "0@movistar.net"
+  },
+  {
+    "name": "Movistar",
+    "country": "Latin America",
+    "gateway_text": "@movimensaje.com.ar"
+  },
+  {
+    "name": "Movistar",
+    "country": "Uruguay",
+    "gateway_text": "@sms.movistar.com.uy"
+  },
+  {
+    "name": "MTN",
+    "country": "South Africa",
+    "gateway_text": "@sms.co.za"
+  },
+  {
+    "name": "MTS Mobility",
+    "country": "Canada",
+    "gateway_text": "@text.mtsmobility.com"
+  },
+  {
+    "name": "Mumbai Airtel",
+    "country": "India",
+    "gateway_text": "@airtelmail.com"
+  },
+  {
+    "name": "My-Cool-SMS",
+    "country": "UK",
+    "gateway_text": "@my-cool-sms.com"
+  },
+  {
+    "name": "Nextech",
+    "country": "USA",
+    "gateway_text": "@sms.ntwls.net"
+  },
+  {
+    "name": "Nextel",
+    "country": "Mexico",
+    "gateway_text": "@msgnextel.com.mx"
+  },
+  {
+    "name": "Nextel",
+    "country": "Argentina",
+    "gateway_text": "TwoWay.11@nextel.net.ar"
+  },
+  {
+    "name": "O2",
+    "country": "Germany",
+    "gateway_text": "@o2online.de"
+  },
+  {
+    "name": "OgVodafone",
+    "country": "Iceland",
+    "gateway_text": "@sms.is"
+  },
+  {
+    "name": "Orange",
+    "country": "Netherlands",
+    "gateway_text": "@sms.orange.nl"
+  },
+  {
+    "name": "Orange",
+    "country": "UK",
+    "gateway_text": "@orange.net"
+  },
+  {
+    "name": "Page Plus Cellular (Verizon)",
+    "country": "USA",
+    "gateway_text": "@vzwpix.com"
+  },
+  {
+    "name": "Pioneer Cellular",
+    "country": "USA",
+    "gateway_text": "nine-digit-@zsend.com"
+  },
+  {
+    "name": "Personal",
+    "country": "Argentina",
+    "gateway_text": "@alertas.personal.com.ar"
+  },
+  {
+    "name": "Plus",
+    "country": "Polan",
+    "gateway_text": "@text.plusgsm.pl"
+  },
+  {
+    "name": "Pocket Wireless",
+    "country": "USA",
+    "gateway_text": "@sms.pocket.com"
+  },
+  {
+    "name": "PC Telecom",
+    "country": "Canada",
+    "gateway_text": "@mobiletxt.ca"
+  },
+  {
+    "name": "Polkomtel",
+    "country": "Poland",
+    "gateway_text": "@text.plusgsm.pl"
+  },
+  {
+    "name": "Qwest Wireless",
+    "country": "USA",
+    "gateway_text": "@qwestmp.com"
+  },
+  {
+    "name": "Red Pocket Mobile",
+    "country": "USA",
+    "gateway_text": "@mms.att.net"
+  },
+  {
+    "name": "Rogers Wireless",
+    "country": "Canada & USA",
+    "gateway_text": "@mms.rogers.com"
+  },
+  {
+    "name": "SaskTel",
+    "country": "Canada",
+    "gateway_text": "@pcs.sasktelmobility.com"
+  },
+  {
+    "name": "Sendega",
+    "country": "Norway",
+    "gateway_text": "@sendega.com"
+  },
+  {
+    "name": "Setar Mobile email (Aruba)",
+    "country": "Aruba",
+    "gateway_text": "@mas.aw"
+  },
+  {
+    "name": "Síminn",
+    "country": "Iceland",
+    "gateway_text": "@box.is"
+  },
+  {
+    "name": "Simple Mobile",
+    "country": "USA",
+    "gateway_text": "@smtext.com"
+  },
+  {
+    "name": "SMS Broadcast",
+    "country": "Australia",
+    "gateway_text": "@send.smsbroadcast.com.au"
+  },
+  {
+    "name": "SMS Central",
+    "country": "Australia",
+    "gateway_text": "@sms.smscentral.com.au"
+  },
+  {
+    "name": "SMSPUP",
+    "country": "Australia",
+    "gateway_text": "@smspup.com"
+  },
+  {
+    "name": "Southernlinc",
+    "country": "USA",
+    "gateway_text": "@page.southernlinc.com"
+  },
+  {
+    "name": "South Central Communications",
+    "country": "USA",
+    "gateway_text": "@rinasms.com"
+  },
+  {
+    "name": "Spikko",
+    "country": "Israel",
+    "gateway_text": "@SpikkoSMS.com"
+  },
+  {
+    "name": "Sprint",
+    "country": "USA",
+    "gateway_text": "@pm.sprint.com"
+  },
+  {
+    "name": "Straight Talk",
+    "country": "USA",
+    "gateway_text":
+      "ATT: @mms.att.net\r\nT-Mobile: @tmomail.net\r\nVerizon: @vzwpix.com\r\nSprint: @tracfone.plspictures.com\r\nOther: @mmst5.tracfone.com"
+  },
+  {
+    "name": "Sunrise Communications",
+    "country": "Switzerland",
+    "gateway_text": "@gsm.sunrise.ch"
+  },
+  {
+    "name": "Syringa Wireless",
+    "country": "USA",
+    "gateway_text": "@rinasms.com"
+  },
+  {
+    "name": "TeletopiaSMS",
+    "country": "Norway",
+    "gateway_text": "@sms.teletopiasms.no"
+  },
+  {
+    "name": "T-Mobile",
+    "country": "USA",
+    "gateway_text": "@tmomail.net"
+  },
+  {
+    "name": "T-Mobile (Optus Zoo)",
+    "country": "Australia",
+    "gateway_text": "@optusmobile.com.au"
+  },
+  {
+    "name": "T-Mobile",
+    "country": "Austria",
+    "gateway_text": "@sms.t-mobile.at"
+  },
+  {
+    "name": "T-Mobile",
+    "country": "Croatia",
+    "gateway_text": "@sms.t-mobile.hr"
+  },
+  {
+    "name": "T-Mobile",
+    "country": "Germany",
+    "gateway_text": "@t-mobile-sms.de"
+  },
+  {
+    "name": "T-Mobile",
+    "country": "Netherlands",
+    "gateway_text": "@gin.nl"
+  },
+  {
+    "name": "Tamil Nadu Airtel",
+    "country": "India",
+    "gateway_text": "919894@airtelmobile.com"
+  },
+  {
+    "name": "Tamil Nadu Aircel",
+    "country": "India",
+    "gateway_text": "9842@airsms.com"
+  },
+  {
+    "name": "Tele2",
+    "country": "Sweden",
+    "gateway_text": "@sms.tele2.se"
+  },
+  {
+    "name": "Telecom",
+    "country": "New Zealand",
+    "gateway_text": "@etxt.co.nz"
+  },
+  {
+    "name": "Teleflip",
+    "country": "USA",
+    "gateway_text": "@teleflip.com"
+  },
+  {
+    "name": "Telstra",
+    "country": "Australia",
+    "gateway_text": "mobile@sms.tim.telstra.com"
+  },
+  {
+    "name": "Telus Mobility",
+    "country": "Canada & USA",
+    "gateway_text": "@mms.telusmobility.com"
+  },
+  {
+    "name": "TellusTalk",
+    "country": "Europe",
+    "gateway_text": "@esms.nu"
+  },
+  {
+    "name": "Tigo (Formerly Ola)",
+    "country": "Colombia",
+    "gateway_text": "@sms.tigo.com.co"
+  },
+  {
+    "name": "TIM",
+    "country": "Italy",
+    "gateway_text": "@timnet.com"
+  },
+  {
+    "name": "Ting",
+    "country": "USA",
+    "gateway_text": "@message.ting.com"
+  },
+  {
+    "name": "TracFone (prepaid)",
+    "country": "USA",
+    "gateway_text": "@mmst5.tracfone.com"
+  },
+  {
+    "name": "Txtlocal",
+    "country": "UK",
+    "gateway_text": "@txtlocal.co.uk"
+  },
+  {
+    "name": "Telcel",
+    "country": "Mexico",
+    "gateway_text": "@itelcel.com"
+  },
+  {
+    "name": "Unicel",
+    "country": "USA",
+    "gateway_text": "@utext.com"
+  },
+  {
+    "name": "UniMóvil Corporation",
+    "country": "UK",
+    "gateway_text": "@viawebsms.com"
+  },
+  {
+    "name": "Union Wireless",
+    "country": "USA",
+    "gateway_text": "@union-tel.com"
+  },
+  {
+    "name": "US Cellular",
+    "country": "USA",
+    "gateway_text": "@mms.uscc.net"
+  },
+  {
+    "name": "USA Mobility",
+    "country": "USA",
+    "gateway_text": "@usamobility.net"
+  },
+  {
+    "name": "UTBox",
+    "country": "Australia",
+    "gateway_text": "@sms.utbox.net"
+  },
+  {
+    "name": "Uttar Pradesh West Escotel",
+    "country": "India",
+    "gateway_text": "@escotelmobile.com"
+  },
+  {
+    "name": "Verizon Wireless",
+    "country": "USA",
+    "gateway_text": "@vzwpix.com"
+  },
+  {
+    "name": "Viaero",
+    "country": "USA",
+    "gateway_text": "@mmsviaero.com"
+  },
+  {
+    "name": "Vivo",
+    "country": "Brazil",
+    "gateway_text": "@torpedoemail.com.br"
+  },
+  {
+    "name": "Virgin Mobile",
+    "country": "Canada",
+    "gateway_text": "@vmobile.ca"
+  },
+  {
+    "name": "Virgin Mobile",
+    "country": "USA",
+    "gateway_text": "@vmpix.com"
+  },
+  {
+    "name": "Virgin Mobile",
+    "country": "UK",
+    "gateway_text": "@vxtras.com"
+  },
+  {
+    "name": "Vodacom",
+    "country": "South Africa",
+    "gateway_text": "@voda.co.za"
+  },
+  {
+    "name": "Vodafone",
+    "country": "Germany",
+    "gateway_text": "@vodafone-sms.de"
+  },
+  {
+    "name": "Vodafone",
+    "country": "Italy",
+    "gateway_text": "@sms.vodafone.it"
+  },
+  {
+    "name": "Vodafone",
+    "country": "Portugal",
+    "gateway_text": "@sms.vodafone."
+  },
+  {
+    "name": "Vodafone",
+    "country": "Spain",
+    "gateway_text": "0@vodafone.es"
+  },
+  {
+    "name": "Vodafone",
+    "country": "New Zealand",
+    "gateway_text": "@mtxt.co.nz"
+  },
+  {
+    "name": "Voyager Mobile",
+    "country": "USA",
+    "gateway_text": "@text.voyagermobile.com"
+  },
+  {
+    "name": "West Central Wireless",
+    "country": "USA",
+    "gateway_text": "@sms.wcc.net"
+  },
+  {
+    "name": "Wind Mobile",
+    "country": "Canada",
+    "gateway_text": "@txt.windmobile.ca"
+  },
+  {
+    "name": "XIT Communications",
+    "country": "USA",
+    "gateway_text": "@sms.xit.net"
+  }
+]
