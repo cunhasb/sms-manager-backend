@@ -1,6 +1,6 @@
 require 'google/apis/gmail_v1'
 require 'google/api_client/client_secrets'
-# Gmail = Google::Apis::GmailV1 # Alias the module
+Gmail = Google::Apis::GmailV1 # Alias the module
 class Api::V1::AuthController < ApplicationController
     def show
       user = User.find(params["id"])
@@ -30,6 +30,7 @@ class Api::V1::AuthController < ApplicationController
         )
         auth_client.code = auth_profile["code"]
         result = auth_client.fetch_access_token!
+        byebug
         # service = Gmail::GmailService.new
         # service.authorization = auth_client
         user =User.create_with(auth_profile).find_or_create_by(g_id: auth_profile["g_id"])
