@@ -647,7 +647,8 @@
   {
     "name": "Sprint",
     "country": "USA",
-    "gateway_text": "@pm.sprint.com"
+    "gateway_text": "@messaging.sprintpcs.com",
+    "gateway_mime": "@pm.sprint.com"
   },
   {
     "name": "Straight Talk",
@@ -788,6 +789,7 @@
   {
     "name": "US Cellular",
     "country": "USA",
+    "gateway_mime": "@email.uscc.net",
     "gateway_text": "@mms.uscc.net"
   },
   {
@@ -808,7 +810,8 @@
   {
     "name": "Verizon Wireless",
     "country": "USA",
-    "gateway_text": "@vzwpix.com"
+    "gateway_mime": "@vzwpix.com",
+    "gateway_text": "@vtext.com"
   },
   {
     "name": "Viaero",

@@ -1,5 +1,8 @@
 require 'google/apis/gmail_v1'
 require 'google/api_client/client_secrets'
+require 'json'
+require 'mail'
+require_relative '../../../mailers/new_user_mailer.rb'
 Gmail = Google::Apis::GmailV1 # Alias the module
 class Api::V1::AuthController < ApplicationController
     def show
@@ -30,13 +33,19 @@ class Api::V1::AuthController < ApplicationController
         )
         auth_client.code = auth_profile["code"]
         result = auth_client.fetch_access_token!
-        byebug
-        # service = Gmail::GmailService.new
-        # service.authorization = auth_client
+        service = Gmail::GmailService.new
+
+
+
+        # byebug
         user =User.create_with(auth_profile).find_or_create_by(g_id: auth_profile["g_id"])
         result.keys.each {|key| key !="user_id" ? user[key]=(result[key]): nil}
         user.save
       end
+      service.authorization = user.access_token
+      # Add_phone_number(service,providers="","17323376090","Trying out finding provider")
+
+      # byebug
 
       render json:{
         user:{
