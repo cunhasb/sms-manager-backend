@@ -21,6 +21,7 @@ class Api::V1::AuthController < ApplicationController
     def create
       if params["user"]["id"]
         user = User.find(params["user"]["id"])
+        # user = User.all.first
       else
         # byebug
         client_secrets= Google::APIClient::ClientSecrets.load(ENV["G_SECRETS"])

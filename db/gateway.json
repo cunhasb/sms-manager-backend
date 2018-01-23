@@ -40,11 +40,6 @@
     "gateway_text": "@mms.alltelwireless.com"
   },
   {
-    "name": "Verizon Wireless",
-    "country": "USA",
-    "gateway_text": "@vzwpix.com"
-  },
-  {
     "name": "Ameritech",
     "country": "USA",
     "gateway_text": "@paging.acswireless.com"

@@ -6,6 +6,7 @@ Rails.application.routes.draw do
       resources :users
       resources :messages
       resources :campaigns
+      resources :customers
       post '/auth',to:'auth#create'
       get '/current_user/:id', to: 'auth#show'
       mount ActionCable.server =>'/cable'
