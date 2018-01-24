@@ -1,4 +1,4 @@
 class CampaignSerializer < ActiveModel::Serializer
-  attributes :id, :name
+  attributes :id, :name,:unread_messages
   # has_many :message
 end

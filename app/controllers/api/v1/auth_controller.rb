@@ -19,6 +19,7 @@ class Api::V1::AuthController < ApplicationController
 
     end
     def create
+      # debugger
       if params["user"]["id"]
         user = User.find(params["user"]["id"])
         # user = User.all.first
@@ -34,15 +35,12 @@ class Api::V1::AuthController < ApplicationController
         )
         auth_client.code = auth_profile["code"]
         result = auth_client.fetch_access_token!
-        service = Gmail::GmailService.new
-
-
-
         # byebug
         user =User.create_with(auth_profile).find_or_create_by(g_id: auth_profile["g_id"])
         result.keys.each {|key| key !="user_id" ? user[key]=(result[key]): nil}
         user.save
       end
+      service = Gmail::GmailService.new
       service.authorization = user.access_token
       # Add_phone_number(service,providers="","17323376090","Trying out finding provider")
 
