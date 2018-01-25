@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(version: 20180119214130) do
   create_table "campaigns", force: :cascade do |t|
     t.string "g_id"
     t.string "name"
+    t.string "message"
     t.integer "unread_messages"
     t.bigint "user_id"
     t.datetime "created_at", null: false

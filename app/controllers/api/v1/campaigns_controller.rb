@@ -9,7 +9,11 @@ class Api::V1::CampaignsController < ApplicationController
   end
   def create
     # byebug
-    campaign = Campaign.create(user_id: User.all.first.id,name:params[:title])
+
+    campaign = Campaign.create(user_id: User.all.first.id,name:params[:campaign][:name],message:params[:campaign][:message])
+    customers = params[:campaign][:customers].each{|customer|
+    campaign.customers << Customer.find(id) }
+
     render json: campaign
   end
 end
